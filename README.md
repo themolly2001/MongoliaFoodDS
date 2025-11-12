@@ -65,5 +65,5 @@ Contributions are welcome!
 ---
 
 ## 📄 License
-MIT License © 2025 Molly Munkh‑Orgil
+MIT License © 2025 TheMolly2001
 
