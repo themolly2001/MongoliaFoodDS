@@ -1,35 +1,69 @@
-📌 Project Overview:
-This project explores food-related data in Mongolia using data science techniques to uncover trends, patterns, and insights. 
-The goal is to analyze consumption habits, pricing, and regional differences to better understand the food landscape in Mongolia.
+# 🇲🇳 Mongolia Data Science Repository
 
-🎯 Objectives:
-- Clean and preprocess raw food data.
-- Perform exploratory data analysis (EDA) to identify key trends.
-- Visualize consumption and pricing patterns across regions.
-- Generate actionable insights for researchers or policymakers.
+A collection of data science projects and resources focused on Mongolia. This repository aims to provide datasets, analysis scripts, and visualization tools to support research and insights into Mongolian demographics, economy, and culture.
 
-🧰 Technologies Used:
+---
+
+## 📌 Overview
+This repository includes:
+- Cleaned and raw datasets related to Mongolia
+- Jupyter notebooks for data analysis and visualization
+- Scripts for machine learning and statistical modeling
+
+---
+
+## ✨ Features
+- **Data Cleaning**: Preprocessing scripts for structured and unstructured data
+- **Exploratory Analysis**: Visualizations and descriptive statistics
+- **Predictive Modeling**: Machine learning models for forecasting and classification
+
+---
+
+## 🛠️ Tech Stack
+- **Languages**: Python, R
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **Tools**: Jupyter Notebook, Git
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
 - Python 3.8+
-- Pandas – for data manipulation
-- Matplotlib & Seaborn – for data visualization
-- Jupyter Notebook – for interactive analysis
+- Jupyter Notebook
+- Install dependencies:
+```bash
+pip install -r requirements.txt
+```
 
-📊 Dataset Description
-The dataset includes food-related metrics such as:
-- Item names and categories
-- Prices across different regions
-- Consumption volumes
-- Time-based trends
+### Clone the Repository
+```bash
+git clone https://github.com/themolly2001/Mongolia-DS.git
+cd Mongolia-DS
+```
 
-🚀 How to Run:
-1. Clone the repository:
-   git clone https://github.com/themolly2001/MongoliaFoodDS.git
-   cd MongoliaFoodDS/DataScience
-2. Open the Jupyter Notebook:
-   jupyter notebook
-3. Run the cells in order to reproduce the analysis.
+---
 
+## 📊 Usage
+- Open Jupyter notebooks in the `notebooks/` directory for analysis examples.
+- Use scripts in `src/` for data preprocessing and modeling.
 
-📌 Notes
-Make sure to install required packages using pip install -r requirements.txt if a requirements file is added.
-The project is a work in progress — contributions and feedback are welcome!
+---
+
+## ✅ Why This Project Matters
+- Promotes data-driven research about Mongolia
+- Provides reusable resources for academics, developers, and analysts
+
+---
+
+## 🤝 Contributing
+Contributions are welcome!
+1. Fork the repo
+2. Create a feature branch
+3. Submit a pull request
+
+---
+
+## 📄 License
+MIT License © 2025 Molly Munkh‑Orgil
+
